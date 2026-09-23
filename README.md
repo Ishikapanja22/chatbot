@@ -62,7 +62,6 @@ chatbot/
 cd backend
 npm install
 ```
-
 Create a `.env` file inside the `backend` directory:
 ```env
 PORT=5000
@@ -78,6 +77,9 @@ node index.js
 ```bash
 cd frontend
 npm install
+```
+Start the frontend server:
+```bash
 npm start
 ```
 
